@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[4507],{407:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/HotelF2/blog/tags/facebook","allTagsPath":"/HotelF2/blog/tags","count":1,"unlisted":false}')}}]);
